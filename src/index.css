@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+body {
+  /* 使用标准 CSS 设置深色背景，确保兼容性 */
+  background-color: #020617; /* 对应 slate-950 */
+  color: white;
+}
